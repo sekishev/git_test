@@ -1,0 +1,1 @@
+This is some text to test if i understood how to git add stuff and how to git status it
